@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/MyHTML"
+		},
+		{
+			"path": "../../Desktop/MyCSS"
+		},
+		{
+			"path": "../../Desktop/MyCSSAnimation"
+		},
+		{
+			"path": "../../Desktop/MyRWD"
+		},
+		{
+			"path": "../../Desktop/MyCSSGrid"
+		},
+		{
+			"path": "../MyAwesomeApp"
+		}
+	],
+	"settings": {}
+}
